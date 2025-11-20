@@ -1,8 +1,8 @@
-# Git 명령어 실습
+ Git 명령어 실습
 - (done) ADD
 - (done) COMMIT
 - (done) PUSH
-- MERGE
+- (done) MERGE
 - RESET
-- TAG
-- REVERT
+- (done) TAG
+- (done) REVERT
